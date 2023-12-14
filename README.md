@@ -1,5 +1,5 @@
 # Inherited-Fruit
-Protected Members
+Protected Members on Sololearn
 
 You work at a grocery store and want to build an app to manage the products in the store.
 
